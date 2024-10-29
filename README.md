@@ -1,5 +1,7 @@
 # Quadruple Inverted Pendulum Controller
 
+[Porject PDF file]([https://doi.org/10.1016/j.engappai.2023.107518](https://drive.google.com/file/d/1jL_oVYQrVnmIAMw-khLq6Ku9Vv8g0Lue/view?usp=sharing)):
+
 This project implements a controller for a **Quadruple Inverted Pendulum (QIP)** using **Q-Learning** and **Linear Quadratic Regulator (LQR)** methods.
 
 
