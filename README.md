@@ -2,6 +2,15 @@
 
 This project implements a controller for a **Quadruple Inverted Pendulum (QIP)** using **Q-Learning** and **Linear Quadratic Regulator (LQR)** methods.
 
+
+## System Requirements
+   ```
+python == 3.9
+matplotlib == 3.9.2
+numpy == 2.0.2
+   ```
+
+
 ## Instructions for Training Your Own Q-Table
 
 **Set Training Mode**: In your main script, ensure the `training` parameter is set to `True` when initializing the `Controller`:
