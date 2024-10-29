@@ -27,4 +27,4 @@ This approach handles continuous state spaces more efficiently and mitigates the
 - [Reinforcement_Learning](https://zenodo.org/records/6582706): Reinforcement Learning for swing up
 - [3-link Pendulum with reinforcement learning](https://doi.org/10.1016/j.engappai.2023.107518): Reinforcement learning for three link inverted Pendulum.
 
-Finally Great thanks to the KOH AI Competition Organizers for the opportunity to carry out this project
+Finally Great thanks to the [KOH AI Competition](https://2024.iccas.org/?page_id=4431) Organizers for the opportunity to carry out this project
