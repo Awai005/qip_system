@@ -4,7 +4,7 @@
 
 This project implements a controller for a **Quadruple Inverted Pendulum (QIP)** using **Q-Learning** and **Linear Quadratic Regulator (LQR)** methods.
 The swing up of inverted pendulum is a continuos system as such the Q-table being discrete cant produce the coontinuous actions needed for swing up. Here is the Link to the Soft Actpr Critic system developed after the Young Koh AI competition 
-## [Standard implementation of Soft Actor Critic reinforcement learning](https://github.com/Awai005/SAC_QIPendulum/tree/main) 
+## [Standard implementation of Model Based Swing up control for the 4 link inverted pendelum](https://github.com/Awai005/qip-swingup-control/tree/main) 
 
 
 ## System Requirements
